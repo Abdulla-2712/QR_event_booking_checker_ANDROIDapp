@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34439693495",
+    "project_id": "qrcode-scanner-ae46e",
+    "storage_bucket": "qrcode-scanner-ae46e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34439693495:android:04dc0f823183e097a73932",
+        "android_client_info": {
+          "package_name": "com.abdulla.qrcode_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLAO3BCDzz5ELraf-MFd1GBa-XT9XbUd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
